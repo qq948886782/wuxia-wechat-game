@@ -1,0 +1,10 @@
+<view class="home-page">
+  <view class="mist"></view>
+  <view class="hero-card">
+    <view class="game-title">江湖修行录</view>
+    <view class="game-copy">青灯照剑影，风雪问初心。此去江湖远，且从今日起一试身手。</view>
+
+    <button class="start-btn" bindtap="onStartGame">开始游戏</button>
+    <button class="sect-btn" bindtap="goToSectSelect">门派选择</button>
+  </view>
+</view>

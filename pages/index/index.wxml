@@ -1,0 +1,9 @@
+<view class="container">
+  <view class="card">
+    <view class="title">武侠江湖</view>
+    <view class="subtitle">一剑入江湖，先立志，再择门派</view>
+
+    <button class="primary-btn" bindtap="onStartGame">开始游戏</button>
+    <button class="secondary-btn" bindtap="goToSectSelect">门派选择</button>
+  </view>
+</view>

@@ -1,0 +1,10 @@
+<view class="container">
+  <view class="card">
+    <view class="title">选择你的门派</view>
+    <view class="subtitle">原型阶段：先展示三个经典门派入口</view>
+
+    <view>• 少林</view>
+    <view>• 武当</view>
+    <view>• 峨眉</view>
+  </view>
+</view>

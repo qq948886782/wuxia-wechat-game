@@ -1,0 +1,18 @@
+{
+  "description": "武侠微信小游戏原型",
+  "packOptions": {
+    "ignore": []
+  },
+  "setting": {
+    "urlCheck": false,
+    "es6": true,
+    "enhance": true,
+    "postcss": true,
+    "minified": true
+  },
+  "compileType": "miniprogram",
+  "libVersion": "3.2.0",
+  "appid": "touristappid",
+  "projectname": "wuxia-wechat-game",
+  "condition": {}
+}
